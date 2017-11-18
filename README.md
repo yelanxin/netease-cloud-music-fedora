@@ -8,3 +8,5 @@ gunzip netease-cloud-music-1.1.0-2.x86_64.rpm.gz
   
 yum localinstall netease-cloud-music-1.1.0-2.x86_64.rpm
  </code>
+
+![image](https://github.com/yelanxin/netease-cloud-music-fedora-27/blob/master/img.png)
