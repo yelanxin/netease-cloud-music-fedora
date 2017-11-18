@@ -6,5 +6,5 @@ https://github.com/yelanxin/netease-cloud-music-fedora-27/releases
 <code>
 gunzip netease-cloud-music-1.1.0-2.x86_64.rpm.gz
   
-yum loclaisntall netease-cloud-music-1.1.0-2.x86_64.rpm
+yum localinstall netease-cloud-music-1.1.0-2.x86_64.rpm
  </code>
