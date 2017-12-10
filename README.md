@@ -2,7 +2,7 @@
 基于官网1.1版本制作的适用于fedora 27的rpm包
 
 ## 安装：
-```bash
+```zsh
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
   
 sudo dnf copr enable yelanxin/netease-cloud-music
