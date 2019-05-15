@@ -1,5 +1,5 @@
-# netease-cloud-music-fedora-27
-基于官网1.1版本制作的适用于fedora 27的rpm包
+# netease-cloud-music-fedora
+基于官网1.1版本制作的适用于fedora的rpm包
 
 ### 安装：
 ```zsh
@@ -10,6 +10,4 @@ sudo dnf install netease-cloud-music
 ```
 ### fedora copr项目：
 ```https://copr.fedorainfracloud.org/coprs/yelanxin/```
-### 截图
-![image](https://github.com/yelanxin/netease-cloud-music-fedora-27/blob/master/img.png)
-![image](https://github.com/yelanxin/netease-cloud-music-fedora-27/blob/master/fedora2.png)
+
